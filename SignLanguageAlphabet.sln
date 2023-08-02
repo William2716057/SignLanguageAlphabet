@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SignLanguageAlphabet", "SignLanguageAlphabet\SignLanguageAlphabet.pyproj", "{43F16273-381D-408F-8A5F-5C893A3AE770}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FDCB44B0-869E-4085-A03F-53B09CF64096}"
+	ProjectSection(SolutionItems) = preProject
+		create_imgs.py = create_imgs.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F16273-381D-408F-8A5F-5C893A3AE770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F16273-381D-408F-8A5F-5C893A3AE770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA075EFB-EB08-4351-B7E5-48C710CC2C45}
+	EndGlobalSection
+EndGlobal
