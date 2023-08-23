@@ -10,7 +10,7 @@ Users should train a custom model to classify one-handed sign language gestures 
 The recognized gestures are then converted into text and displayed on the console.
 
 Getting Started
-Prerequisites
+Prerequisites:
 Before you begin, ensure you have met the following requirements:
 
 Python 3.x installed.
