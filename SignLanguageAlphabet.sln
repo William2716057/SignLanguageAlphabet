@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SignLanguageAlphabet", "SignLanguageAlphabet\SignLanguageAlphabet.pyproj", "{43F16273-381D-408F-8A5F-5C893A3AE770}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FDCB44B0-869E-4085-A03F-53B09CF64096}"
-	ProjectSection(SolutionItems) = preProject
-		create_imgs.py = create_imgs.py
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
