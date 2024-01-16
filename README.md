@@ -42,8 +42,6 @@ Run the Inference Script:
 
 Start the one-handed sign language recognition script:
 
-bash
-Copy code
 python inference_classifier.py
 Recognize Gestures:
 
